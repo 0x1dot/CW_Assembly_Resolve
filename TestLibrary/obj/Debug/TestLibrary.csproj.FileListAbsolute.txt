@@ -1,0 +1,4 @@
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\TestLibrary\bin\Debug\TestLibrary.dll
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\TestLibrary\bin\Debug\TestLibrary.pdb
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\TestLibrary\obj\Debug\TestLibrary.dll
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\TestLibrary\obj\Debug\TestLibrary.pdb

@@ -1,0 +1,9 @@
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\bin\Debug\CW Assembly Resolve.exe.config
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\bin\Debug\CW Assembly Resolve.exe
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\bin\Debug\CW Assembly Resolve.pdb
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\obj\Debug\CW Assembly Resolve.csprojResolveAssemblyReference.cache
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\obj\Debug\CW_Assembly_Resolve.Form1.resources
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\obj\Debug\CW_Assembly_Resolve.Properties.Resources.resources
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\obj\Debug\CW Assembly Resolve.csproj.GenerateResource.Cache
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\obj\Debug\CW Assembly Resolve.exe
+c:\users\0x1dot\documents\visual studio 2015\Projects\CW Assembly Resolve\CW Assembly Resolve\obj\Debug\CW Assembly Resolve.pdb
